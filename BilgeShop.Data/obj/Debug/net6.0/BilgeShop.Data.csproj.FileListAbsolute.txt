@@ -1,0 +1,14 @@
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Data\bin\Debug\net6.0\BilgeShop.Data.deps.json
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Data\bin\Debug\net6.0\BilgeShop.Data.runtimeconfig.json
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Data\bin\Debug\net6.0\BilgeShop.Data.dll
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Data\bin\Debug\net6.0\BilgeShop.Data.pdb
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Data\obj\Debug\net6.0\BilgeShop.Data.csproj.AssemblyReference.cache
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Data\obj\Debug\net6.0\BilgeShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Data\obj\Debug\net6.0\BilgeShop.Data.AssemblyInfoInputs.cache
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Data\obj\Debug\net6.0\BilgeShop.Data.AssemblyInfo.cs
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Data\obj\Debug\net6.0\BilgeShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Data\obj\Debug\net6.0\BilgeShop.Data.dll
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Data\obj\Debug\net6.0\refint\BilgeShop.Data.dll
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Data\obj\Debug\net6.0\BilgeShop.Data.pdb
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Data\obj\Debug\net6.0\BilgeShop.Data.genruntimeconfig.cache
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Data\obj\Debug\net6.0\ref\BilgeShop.Data.dll

@@ -1,0 +1,36 @@
+﻿@model List<CategoryListViewModel>
+
+<div>
+    <div class="float-start"><h2>Kategoriler</h2></div>
+    <div class="float-end"><a asp-controller="Category" asp-action="New" class="btn btn-warning">Yeni Kategori</a></div>
+</div>
+
+<div style="padding-top:75px">
+    
+    <table class="table table-striped">
+
+        <thead>
+            <tr>
+                <th>Kategori Adı</th>
+                <th>Açıklama</th>
+                <th></th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Description</td>
+                    <td>
+                        <a asp-action="Update" asp-area="Admin" asp-controller="Category" asp-route-id="@item.Id">Düzenle</a>
+                        <a asp-action="Delete" asp-area="Admin" asp-controller="Category" asp-route-id="@item.Id">Sil</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+
+</div>

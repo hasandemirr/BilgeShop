@@ -1,0 +1,15 @@
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Business\bin\Debug\net6.0\BilgeShop.Business.deps.json
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Business\bin\Debug\net6.0\BilgeShop.Business.dll
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Business\bin\Debug\net6.0\BilgeShop.Business.pdb
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Business\bin\Debug\net6.0\BilgeShop.Data.dll
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Business\bin\Debug\net6.0\BilgeShop.Data.pdb
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Business\obj\Debug\net6.0\BilgeShop.Business.csproj.AssemblyReference.cache
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Business\obj\Debug\net6.0\BilgeShop.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Business\obj\Debug\net6.0\BilgeShop.Business.AssemblyInfoInputs.cache
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Business\obj\Debug\net6.0\BilgeShop.Business.AssemblyInfo.cs
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Business\obj\Debug\net6.0\BilgeShop.Business.csproj.CoreCompileInputs.cache
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Business\obj\Debug\net6.0\BilgeShop.Business.csproj.CopyComplete
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Business\obj\Debug\net6.0\BilgeShop.Business.dll
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Business\obj\Debug\net6.0\refint\BilgeShop.Business.dll
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Business\obj\Debug\net6.0\BilgeShop.Business.pdb
+C:\Users\Demir\source\repos\BilgeShop\BilgeShop.Business\obj\Debug\net6.0\ref\BilgeShop.Business.dll
